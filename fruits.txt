@@ -2,3 +2,5 @@ apples
 bananas
 cherries
 dragon fruits
+latte 
+frappe
